@@ -1,4 +1,4 @@
-# Project MC102
+# MC102 Repository
 
 This repository contains algorithm code files located in the `susy` folder. These codes were developed during my semester and may serve as a useful reference for others.
 
