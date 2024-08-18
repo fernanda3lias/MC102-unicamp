@@ -1,8 +1,7 @@
 ###################################################
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 06 - Espectativa de Vendas Mensais
-# Nome: Fernanda Elias
-# RA: 259427
+# Nome: Fernanda
 ###################################################
 
 # Leitura da quantidade de meses e os valores de vendas mensais

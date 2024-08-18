@@ -1,8 +1,7 @@
 ###################################################
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 2 - Em Busca de um Chuveiro
-# Nome: Fernanda Elias
-# RA: 259427
+# Nome: Fernanda 
 ###################################################
 
 # Leitura da entrada

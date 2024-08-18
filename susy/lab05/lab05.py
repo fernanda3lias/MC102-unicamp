@@ -1,8 +1,7 @@
 ###################################################
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 5 - Dados da Sorte
-# Nome: Fernanda Elias
-# RA: 259427
+# Nome: Fernanda
 ###################################################
 
 # Leitura da entrada de dados

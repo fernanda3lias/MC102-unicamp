@@ -1,8 +1,7 @@
 ###################################################
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 4 - Pedra, Papel e Tesoura 2.0
-# Nome: Fernanda Elias
-# RA: 259427
+# Nome: Fernanda
 ###################################################
 
 # Leitura dos valores de força de cada jogador

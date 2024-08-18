@@ -1,8 +1,7 @@
 ###################################################
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 3 - Cupons de Desconto
-# Nome: Fernanda Elias
-# RA: 259427
+# Nome: Fernanda
 ###################################################
 
 # leitura de dados
